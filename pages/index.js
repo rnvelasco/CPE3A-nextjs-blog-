@@ -11,7 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm Robert.  I'm a Software Engineer and an Educator.
           I am a guest lecturer in the University of the Assumption.
-          I teach CTESOFTDEV1 for CPE 3rd Year students.
+          I teach CTESOFTDEV4 for CPE 4th Year students.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
